@@ -8,3 +8,22 @@
 ![bootstrap](https://user-images.githubusercontent.com/73274074/144877056-7fb52be3-db81-465e-b71c-f11b155394da.jpg)
 ![git_image](https://user-images.githubusercontent.com/73274074/144877067-636df9ce-9244-4f9f-83ea-4fca4f8fc7e2.png)
 ![github_image](https://user-images.githubusercontent.com/73274074/144877076-b2f62b88-9c7c-41b7-826b-2610485d6014.png)
+
+- NetBeans: Environnement de développement intégré (IDE) utilisé pour ce projet
+- HTML : Langage de description utilisé pour concevoir  les pages web
+- CSS : Langage de style utilisé pour mettre en forme les pages web
+- Bootstrap : Framework graphique utilisé pour facilité la création de pages web (utilisation d'une base de règle CSS existantes)
+- Git : Logiciel de gestion de version
+- GitHub : Forge logicielle en ligne utilisant Git
+
+2. Pour l'épreuve E4
+
+- Je me présente et présente mon parcours, j'affiche mon CV
+- Je parle de projets que j'ai réalisé, je bascule sur les pages correspondantes
+- Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
+  respec
+  autoformation
+  mise en oeuvre des tests
+  documentation
+  gestion de version
+- je présente la façon dont j'organise ma veille et la façon dont je m'en sert
