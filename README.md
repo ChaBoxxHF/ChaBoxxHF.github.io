@@ -21,9 +21,21 @@
 - Je me présente et présente mon parcours, j'affiche mon CV
 - Je parle de projets que j'ai réalisé, je bascule sur les pages correspondantes
 - Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
-  respec
-  autoformation
-  mise en oeuvre des tests
-  documentation
-  gestion de version
+--respec
+-- autoformation
+-- mise en oeuvre des tests
+-- documentation
+-- gestion de version
 - je présente la façon dont j'organise ma veille et la façon dont je m'en sert
+
+3. Pour l'épreuve de E5
+
+- J'héberge les documents présentant le contexte de mes PPE
+- j'héberge le code source de mes PPE
+- j'héberge mes productions (compte rendus, documentations techniques, dicylebtatuibs utilisateur)
+- j'ajoute des liens vers les applications téléchargeables ou testables en ligne
+
+4. Pour mon identité numérique
+
+- Cela fait un point d'entrée professionnel à donner lorsque je postule à un stage, à une poursuite d'études ou à un emploi
+- cela permettra de me faire référencer par les moteurs de recherches (là aussi on me recherche suite à ma rencontre ou à la reception de mon CV
