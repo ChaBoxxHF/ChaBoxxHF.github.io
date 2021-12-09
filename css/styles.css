@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 déc. 2021, 09:32:33
+    Author     : pascal.crochard
+*/
+
+*{
+    box-sizing: border-box; /*Les tailles de conteneurs incluent bordures et
+                             remplissages*/
+    margin:0; /*mise à 0 des marges externes*/
+    padding:0; /*mise à 0 des marges internes*/ 
+    text-decoration:none; /*suppression de la mise en forme habituelle des liens
+                            (soulignement)*/
+}
+
+section{
+    width:1920px;
+}
+
+#intro{
+    display:flex;
+    flex-direction:row;
+    text-align:justify;
+    flex:1;
+}
