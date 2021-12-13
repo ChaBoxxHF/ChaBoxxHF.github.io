@@ -17,13 +17,19 @@ and open the template in the editor.
                             (soulignement)*/
 }
 
-section{
-    width:1920px;
-}
 
 #intro{
     display:flex;
     flex-direction:row;
     text-align:justify;
     flex:1;
+}
+
+#intro img{
+    float:left;
+    margin:10px;
+}
+
+#intro button{
+    
 }
