@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 9 déc. 2021, 09:32:33
+    Author     : pascal.crochard
+*/
+
+*{
+    box-sizing: border-box; /*Les tailles de conteneurs incluent bordures et
+                             remplissages*/
+    margin:0; /*mise à 0 des marges externes*/
+    padding:0; /*mise à 0 des marges internes*/
+    text-decoration:none; /*suppression de la mise en forme habituelle des liens
+                            (soulignement)*/
+}
+
+
+#intro{
+    display:flex;
+    flex-direction:row;
+    text-align:justify;
+    flex:1;
+}
+
+#intro img{
+    float:left;
+    margin:10px;
+}
+
+#intro button{
+
+}
+
+
+.jumbotron img {
+    float: left;
+    margin: 0 15px 15px 0;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    text-align: left;
+}
