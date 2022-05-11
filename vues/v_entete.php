@@ -49,7 +49,7 @@
                             <li role="presentation" class="dropdown-header dropdown-item">
                                 En autodidacte</li>
                             <li role="presentation" class="dropdown-item">
-                                <a role="menuitem" href="#">Création d'un bot discord <br>en JS (actuellement non fonctionnel)</a>
+                                <a role="menuitem" href="https://github.com/ChaBoxxHF/bot_discord">Création d'un bot discord <br>en JS (actuellement non fonctionnel)</a>
                             </li>
                             <li role="presentation" class="dropdown-item">
                                 <a role="menuitem" href="#">Site web pour le club d'aviron seynois</a>
