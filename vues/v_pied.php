@@ -3,19 +3,15 @@
 
 <footer>
     <div class="container">
-        <div class="row">
+        <!--<div class="row">
             <div class="col-lg-6">
                 <h2>Le BTS SIO</h2>
                 <p>
-                    Passionnée d'informatique depuis mon plus jeune âge, j'aime apprendre à faire
-                    de nouvelles choses avec mon ordinateur, mon smartphone ou ma tablette. Une
-                    Geek ? Oui assurément ! Mais j'aimerais maintenant passer au niveau au-dessus
-                    et devenir une vraie Nerd, dans le bon sens du terme ! Après mon bac, le BTS
-                    SIO s'est présenté comme une évidence. Avec 60% d'Informatique "pure", 13%
-                    d'Économie, management et droit de l'informatique, 9% d'Anglais, 9% de culture
-                    générale et 9% de Maths, je savais que cette formation allait me mettre le
-                    pied à l'étrier pour poursuivre ensuite dans cette voie et devenir
-                    informaticienne !
+                    Fortement attiré par les métiers depuis le collège, j'ai découvert le développement
+                    d'application en Terminale lors de mes cours d'Informatique et Sciences du Numérique.
+                    C'est alors que j'ai décidé de suivre cette voie en effectuant la formation du BTS
+                    Service Informatique aux Organisations option Solution Logiciel et Application Metier
+
                 </p>
                 <p><a class="btn btn-secondary"
                       href="https://fr.wikipedia.org/wiki/Brevet_de_technicien_supérieur_-_Services_informatiques_aux_organisations"
@@ -43,16 +39,16 @@
                 </p>
             </div>
         </div>
-        <hr>
-        <p class="text-center" id="copyright">© Pascal Crochard 2022</p>
+        <hr>-->
+        <div class="fin">
+            <p class="text-center" id="copyright">© Pascal Crochard 2022</p>
+        </div>
     </div>
 </footer>
 
 <!-- Optional JavaScript; choose one of the two! -->
 
 <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
 
 <!-- Option 2: Separate Popper and Bootstrap JS -->
 <!--

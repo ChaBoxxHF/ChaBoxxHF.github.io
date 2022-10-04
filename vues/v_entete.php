@@ -18,8 +18,7 @@
     </head>
 
     <body>
-    <body>
-    <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-md">
+    <nav class="navbar navbar-dark bg-primary fixed-top navbar-expand-md">
         <div class="container">
             <button type="button" class="navbar-toggler" data-toggle="collapse"
                     data-target="#navbar" aria-controls="navbar">
